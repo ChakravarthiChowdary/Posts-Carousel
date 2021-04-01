@@ -1,4 +1,4 @@
-# Movies-List-App
+# Posts-Carousel-App
 
 This is a mobile application to view posts and author images with advanced animations.
 This is built using Typescript, React-Native, React Hooks.
